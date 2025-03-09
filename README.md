@@ -1,6 +1,7 @@
 # BMI-Decoder-Comparison
 This repository contains the Python code used in the experiments of our research paper:  
 [**Comparative Analysis of Neural Decoding Algorithms for Brain-Machine Interfaces**](https://www.biorxiv.org/content/10.1101/2024.12.05.627080v1.abstract)
+
 **Authors:** Olena Shevchenko, Sofiia Yeremeieva, and Brokoslaw Laschowski  
 
 ## **Overview**
