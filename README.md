@@ -4,6 +4,9 @@ This repository contains the Python code used in the experiments of our research
 
 **Authors:** Olena Shevchenko, Sofiia Yeremeieva, and Brokoslaw Laschowski  
 
+**Supervisor:** Brokoslaw Laschowski ([@DrLaschowski](https://github.com/DrLaschowski))
+**Lab:** [Comp-Neuro-Lab](https://github.com/Comp-Neuro-Lab)
+
 ## **Overview**
 Brain-machine interfaces (BMIs) rely on accurate neural decoding algorithms to interpret brain activity. This project systematically evaluates different combinations of state-of-the-art **signal processing, feature extraction, and classification algorithms** to determine the optimal combination for motor neural decoding using EEG data.
 
